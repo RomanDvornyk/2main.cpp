@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Audi" << std::endl;
+    std::cout << "VAG" << std::endl;
     return 0;
 }
